@@ -10,7 +10,7 @@ class Basic extends StatefulWidget {
     return BasicState();
   }
 }
-//Testing
+
 var text = 'Hello!';
 int i = 1;
 
