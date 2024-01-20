@@ -18,6 +18,12 @@
 <div align="center">
   <img src="https://github.com/AyushSingh4321/counter-app/assets/156438001/4a1e27ea-36dc-4eb4-81e1-155e1983727f" alt="project-screenshot" width="400" height="700/">
 </div>
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   Displays use of Button for Event Handling.
+
 
 <h2>🛠️ Installation Steps:</h2>
 
