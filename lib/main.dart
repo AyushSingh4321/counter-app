@@ -29,11 +29,19 @@ class BasicState extends State<Basic> {
     return MaterialApp(
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Basic'),
+              title: Text('CounterApp'),
               backgroundColor: Colors.blue,
             ),
             body: Column(
-              children: [Tex(text), TextControl(change)],
+              children: [
+                Container(
+                    width: double.infinity,
+                    // height: EdgeInsets.only(bottom: 10),
+                   height: 200,
+                    child: Tex(text)),
+                    // SizedBox(height: 100,),
+                TextControl(change),
+              ],
             )));
   }
 }
